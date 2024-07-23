@@ -1,0 +1,15 @@
+/.venv
+/.vscode
+/build
+/dist
+/GCODETest.py
+/hmi.py
+/home.gcode
+/main_OLD.py
+/polling.py
+/streamer.py
+/testsendgcode.py
+/UltraPenetrator.spec
+/UltraPenetrator_console.spec
+/up_refact.py
+/__pycache__
